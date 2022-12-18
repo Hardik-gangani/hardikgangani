@@ -1,21 +1,20 @@
+
 <h1 align="center">Hi 👋, I'm Hardik Gangani</h1>
-<h3 align="center">Cloud DevOps enthusiasts</h3>
+<h3 align="center">Passionate Cloud DevOps Engineer</h3>
 
-<img align="right" alt="Coding" width="400" src="">
+<img align="right" alt="Coding" width="400" src="https://github.com/Hardik-gangani/hardikgangani/blob/6c694200d06cbf23065b1dcf36b1947f48097f10/DevOps-Engineer.jpg">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hardik-gangani&label=Profile%20views&color=0e75b6&style=flat" alt="hardik-gangani" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hardik-gangani" alt="hardik-gangani" /></a> </p>
 
-- 🔭 I’m currently working on **DevOps Kubernetes projects**
+- 🔭 I’m currently working on **DevOps Kubernetes projects.**
 
-- 🌱 I’m currently learning **Kubernetes and Terraform**
+- 🌱 I’m currently learning **AWS , Kubernetes and Terraform.**
 
-- 👯 I’m looking to collaborate with **Devops enthusiasts and someone who is open-minded in learning the tools & technologies in public.**
+- 👯 I’m looking to collaborate with **Devops enthusiasts and someone who is open-minded in learning the tools & technologies in public and who likes learn & contibute in Open source community.**
 
-- 📫 How to reach me **HardikGangani40@gmail.com**
+- 📫 How to reach me **Hardikgangani40@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1IykDg-tPhhQ_VY3lrFNcpOluqCbgL0wm/view?usp=share_link](https://drive.google.com/file/d/1IykDg-tPhhQ_VY3lrFNcpOluqCbgL0wm/view?usp=share_link)
+- 📄 Know about my experiences [Click here](https://drive.google.com/file/d/1IykDg-tPhhQ_VY3lrFNcpOluqCbgL0wm/view?usp=share_link)
 
 - ⚡ Fun fact **I think I am intermediate chess player who always play chess even in the meetings.**
 
@@ -32,5 +31,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hardik-gangani&show_icons=true&locale=en&layout=compact" alt="hardik-gangani" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hardik-gangani&show_icons=true&locale=en" alt="hardik-gangani" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hardik-gangani&label=Profile%20views&color=0e75b6&style=flat" alt="hardik-gangani" /> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hardik-gangani&" alt="hardik-gangani" /></p>
