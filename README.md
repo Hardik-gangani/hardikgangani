@@ -30,8 +30,8 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hardik-gangani&show_icons=true&locale=en" alt="hardik-gangani" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hardikgangani&show_icons=true&locale=en" alt="hardik-gangani" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hardik-gangani&label=Profile%20views&color=0e75b6&style=flat" alt="hardik-gangani" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hardikgangani&label=Profile%20views&color=0e75b6&style=flat" alt="hardik-gangani" /> </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hardik-gangani&" alt="hardik-gangani" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hardikgangani&" alt="hardik-gangani" /></p>
